@@ -1,0 +1,13 @@
+{
+  "islami": "إسلامي",
+  "suraName" : "إسم السورة",
+  "ahadeth" : "الأحاديث النبوية",
+  "quranLabel": "قرآن",
+  "hadethLabel" : "الاحاديث",
+  "sebhaLabel" : "السبحة",
+  "radioLabel" : "الراديو",
+  "languages" : "اللغات",
+  "theme" : "الواجهة",
+  "light" : "فاتح" ,
+  "dark" : "غامق"
+}
